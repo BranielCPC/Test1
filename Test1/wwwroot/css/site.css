@@ -1,0 +1,28 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+#generateCalendar {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #0079c1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+#calendar {
+    margin: 0 auto;
+    width: 80%;
+}
